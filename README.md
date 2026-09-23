@@ -10,7 +10,7 @@ Enhance your FiveM experience with **Lc-firstaim**! 🚀
 - 🚗 Automatically activates for drivers
 - 🔄 Synced behavior between all players
 - 💨 Lightweight & performance-friendly
-- 🌐 Works with **QB-Core, ESX, or Standalone setups**
+- 🌐 Works with **QBX, QB-Core, ESX, or Standalone setups**
 
 ---
 
@@ -48,7 +48,3 @@ Enhance your FiveM experience with **Lc-firstaim**! 🚀
 ## 📝 License
 
 This project is released under the [MIT License](https://opensource.org/licenses/MIT).
-
-
----
-

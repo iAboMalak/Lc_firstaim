@@ -17,3 +17,5 @@ shared_scripts {
 client_scripts {
 	'client/*.lua'
 }
+
+-- Script By AboMalak | https://discord.gg/LcStore | https://discord.gg/8w8r6Vx8ZJs
