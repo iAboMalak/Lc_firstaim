@@ -48,11 +48,9 @@ function resetState()
     shot, check, check2, count, currentVeh, lastSeat = false, false, false, 0, nil, nil
 end
 
-
 CreateThread(function()
     while true do
         Wait(1)
-
         if not ResourceIsValid then
             goto continue
         end
